@@ -12,6 +12,9 @@
   
 - Semana 4
   - [Estadística Inferencial](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_inference.ipynb)
+
+- Bono: 
+  - [Estadística y probabilidad interactiva](http://en-interactive.herokuapp.com)
   
 ### Docente
 

@@ -2,7 +2,7 @@
 
 - Semana 1
   - [Análsis descriptivo](https://nbviewer.org/github/marsgr6/EN-online/blob/main/descriptive_statistics.ipynb)
-  - [Introducción al Análisis exploratorio de Datos](https://nbviewer.org/github/marsgr6/EN-online/blob/main/exploratory_data_analysis.ipynb)
+  - [Introducción al Análisis Exploratorio de Datos](https://nbviewer.org/github/marsgr6/EN-online/blob/main/exploratory_data_analysis.ipynb)
 
 - Semana 2
   - [Distribuciones de probabilidad discretas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/discrete_distributions.ipynb)

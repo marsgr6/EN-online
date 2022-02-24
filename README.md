@@ -12,3 +12,9 @@
   
 - Semana 4
   - [Estadística Inferencial](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_inference.ipynb)
+  
+### Docente
+
+[Mario González](http://investigacion.udla.edu.ec/udla_teams/mario-gonzalez/)
+
+- [Perfil Google scholar](https://scholar.google.co.uk/citations?user=cmuZCwsAAAAJ&hl=en)

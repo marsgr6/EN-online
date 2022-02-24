@@ -16,6 +16,8 @@
 - Bono: 
   - [Estadística y probabilidad interactiva](http://en-interactive.herokuapp.com)
   
+- Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD)
+  
 ### Docente
 
 [Mario González](http://investigacion.udla.edu.ec/udla_teams/mario-gonzalez/)

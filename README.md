@@ -12,11 +12,11 @@
   
 - Semana 4
   - [Estadística Inferencial](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_inference.ipynb)
+  
+- Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD)
 
 - Bono: 
   - [Estadística y probabilidad interactiva](http://en-interactive.herokuapp.com)
-  
-- Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD)
   
 ### Docente
 

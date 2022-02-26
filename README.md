@@ -17,6 +17,14 @@
 
 - Bono: 
   - [Estadística y probabilidad interactiva](http://en-interactive.herokuapp.com)
+
+### Curso Python 3
+
+- [Introducción a la computación en Python](https://marsgr6.github.io/presentations/ICP2021/index.html)
+
+- [Numpy](https://anaconda.org/marsgr6/numpy/notebook)
+
+- [Matplotlib](https://anaconda.org/marsgr6/matplotlib/notebook)
   
 ### Docente
 

@@ -1,11 +1,6 @@
 # EN-online: Estadística de Negocios
 
-La asignatura se enfoca en la analítica descriptiva como componente fundamental de la ciencia de datos. Los estudiantes reciben una base de conocimiento estadístico relacionado al análisis descriptivo, funciones de probabilidad, inferencias, estimaciones, prueba de hipótesis, que será de utilidad para todo tipo de análisis de datos y proporcionarán un fundamento para análisis más avanzados.  
-Se tratarán temas de análisis descriptivo y análisis exploratorio de datos. 
-Se presentarán distribuciones de variables aleatorias discretas y distribuciones de variables aleatorias continuas. 
-Y temas de estadística inferencial, intervalos de confianza y pruebas de hipótesis.
-
-El análisis de datos en los negocios es algo que las empresas ya no pueden permitirse ignorar. El análisis de datos a veces es complejo y difícil de realizar, pero las empresas que implementan sistemas y estrategias para recopilar, analizar y usar datos experimentarán beneficios cuantificables en numerosas áreas de su operación. Es por esto que los profesionales en ciencia de datos son vitales para las organizaciones, dado que pueden incorporar sus conocimientos sustantivos de negocios junto con la capacidad de descubrir patrones ocultos, correlaciones desconocidas y crear modelos que pueden hacer predicciones precisas. Estos profesionales, a través de la ciencia de datos pueden ayudar a tomar mejores decisiones de negocio para su organización.
+La asignatura se enfoca en la analítica descriptiva como componente fundamental de la ciencia de datos. Los estudiantes reciben una base de conocimiento estadístico relacionado al análisis descriptivo, funciones de probabilidad, inferencias, estimaciones, prueba de hipótesis, que será de utilidad para todo tipo de análisis de datos y proporcionarán un fundamento para análisis más avanzados.
 
 
 | Semana | Tema | Deber     |

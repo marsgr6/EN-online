@@ -18,7 +18,7 @@ El curso se impartirá en Python 3 usando la herramienta Jupyter notebooks para 
 - Bono: 
   - [Estadística y probabilidad interactiva](http://en-interactive.herokuapp.com)
 
-### Curso Python 3
+### Curso de Python 3
 
 - [Introducción a la computación en Python](https://marsgr6.github.io/presentations/ICP2021/index.html)
 

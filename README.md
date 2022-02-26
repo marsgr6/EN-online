@@ -15,8 +15,7 @@ El curso se impartirá en Python 3 usando la herramienta Jupyter notebooks para 
 
 - Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD)
 
-- Bono: 
-  - [Estadística y probabilidad interactiva](http://en-interactive.herokuapp.com)
+- [Estadística y probabilidad interactiva](http://en-interactive.herokuapp.com)
 
 ### Curso de Python 3
 

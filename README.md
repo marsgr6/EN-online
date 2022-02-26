@@ -2,6 +2,7 @@
 
 La asignatura se enfoca en la analítica descriptiva como componente fundamental de la ciencia de datos. Los estudiantes reciben una base de conocimiento estadístico relacionado al análisis descriptivo, funciones de probabilidad, inferencias, estimaciones, prueba de hipótesis, que será de utilidad para todo tipo de análisis de datos y proporcionarán un fundamento para análisis más avanzados.
 
+El curso se impartirá en Python 3 usando la herramienta Jupyter notebooks para presentar el contenido de los temas, así como el código de los ejemplos realizados. 
 
 | Semana | Tema | Deber     |
 | :---:  | :---------------------------------------------   | :------------ |

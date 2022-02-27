@@ -6,7 +6,7 @@ El curso se impartirá en Python 3 usando la herramienta Jupyter notebooks para 
 
 | Semana | Tema | Deber     |
 | :---:  | :---------------------------------------------   | :------------ |
-| 1      | [Análsis descriptivo](https://nbviewer.org/github/marsgr6/EN-online/blob/main/descriptive_statistics.ipynb) |    |
+| 1      | [Análisis descriptivo](https://nbviewer.org/github/marsgr6/EN-online/blob/main/descriptive_statistics.ipynb) |    |
 |        | [Introducción al Análisis Exploratorio de Datos](https://nbviewer.org/github/marsgr6/EN-online/blob/main/exploratory_data_analysis.ipynb) |
 | 2      | [Distribuciones de probabilidad discretas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/discrete_distributions.ipynb) |    |
 | 3      | [Distribuciones de probabilidad continuas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/continuous_distributions.ipynb) |   |

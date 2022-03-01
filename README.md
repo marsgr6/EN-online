@@ -4,14 +4,13 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 
 El curso se impartirá en Python 3 usando la herramienta Jupyter notebooks para presentar el contenido de los temas, así como el código de los ejemplos realizados. 
 
-| Semana | Tema | Deber     |
+| Semana | Tema | Binder     |
 | :---:  | :---------------------------------------------   | :------------ |
-| 1      | [Análisis descriptivo](https://nbviewer.org/github/marsgr6/EN-online/blob/main/descriptive_statistics.ipynb) |    |
-|        | [Introducción al Análisis Exploratorio de Datos](https://nbviewer.org/github/marsgr6/EN-online/blob/main/exploratory_data_analysis.ipynb) |
-| 2      | [Distribuciones de probabilidad discretas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/discrete_distributions.ipynb) |    |
-| 3      | [Distribuciones de probabilidad continuas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/continuous_distributions.ipynb) |   |
-| 4      | [Estadística Inferencial](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_inference.ipynb) |   |
-
+| 1      | [Análisis descriptivo](https://nbviewer.org/github/marsgr6/EN-online/blob/main/descriptive_statistics.ipynb) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=descriptive_statistics.ipynb) |
+|        | [Introducción al Análisis Exploratorio de Datos](https://nbviewer.org/github/marsgr6/EN-online/blob/main/exploratory_data_analysis.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=exploratory_data_analysis.ipynb) |
+| 2      | [Distribuciones de probabilidad discretas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/discrete_distributions.ipynb) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=discrete_distributions.ipynb) |
+| 3      | [Distribuciones de probabilidad continuas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/continuous_distributions.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=continuous_distributions.ipynb) |
+| 4      | [Estadística Inferencial](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_inference.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=statistical_inference.ipynb) |
 
 - Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD)
 

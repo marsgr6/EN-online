@@ -10,7 +10,8 @@ El curso se impartirá en Python 3 usando la herramienta Jupyter notebooks para 
 |        | [Introducción al Análisis Exploratorio de Datos](https://nbviewer.org/github/marsgr6/EN-online/blob/main/exploratory_data_analysis.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=exploratory_data_analysis.ipynb) |
 | 2      | [Distribuciones de probabilidad discretas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/discrete_distributions.ipynb) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=discrete_distributions.ipynb) |
 | 3      | [Distribuciones de probabilidad continuas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/continuous_distributions.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=continuous_distributions.ipynb) |
-| 4      | [Estadística Inferencial](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_inference.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=statistical_inference.ipynb) |
+| 4      | [Estadística Inferencial: Intervalos de confianza](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_inference.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=statistical_inference.ipynb) |
+|       | [Estadística Inferencial: Pruebas de hipótesis](https://nbviewer.org/github/marsgr6/EN-online/blob/main/statistical_inference.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=statistical_tests.ipynb) |
 
 - Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD)
 

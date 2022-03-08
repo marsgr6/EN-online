@@ -6,7 +6,7 @@ El curso se impartirá en Python 3 usando la herramienta Jupyter notebooks para 
 
 | Semana | Tema | Binder     |
 | :---:  | :---------------------------------------------   | :------------ |
-| 1      | [Análisis descriptivo](https://marsgr6.github.io/presentations/intro_estadistica_de_negocios.slides.html#/)  |     | 
+| 1      | [Introducción](https://marsgr6.github.io/presentations/intro_estadistica_de_negocios.slides.html#/)  |     | 
 |        | [Análisis descriptivo](https://nbviewer.org/github/marsgr6/EN-online/blob/main/descriptive_statistics.ipynb) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=descriptive_statistics.ipynb) |
 |        | [Introducción al Análisis Exploratorio de Datos](https://nbviewer.org/github/marsgr6/EN-online/blob/main/exploratory_data_analysis.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=exploratory_data_analysis.ipynb) |
 | 2      | [Distribuciones de probabilidad discretas](https://nbviewer.org/github/marsgr6/EN-online/blob/main/discrete_distributions.ipynb) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD?labpath=discrete_distributions.ipynb) |

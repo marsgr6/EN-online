@@ -4,6 +4,14 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 
 <!---El curso se impartirá en Python 3 usando la herramienta Jupyter notebooks para presentar el contenido de los temas, así como el código de los ejemplos realizados. -->
 
+### Docente
+
+[Mario González](http://investigacion.udla.edu.ec/udla_teams/mario-gonzalez/)
+
+- [Perfil Google scholar](https://scholar.google.co.uk/citations?user=cmuZCwsAAAAJ&hl=en)
+
+### Contenido
+
 | Semana | Tema | Binder     | Descargar |
 | :---:  | :---------------------------------------------   | :------------ | :------------ |
 | 0      | [Introducción](https://marsgr6.github.io/presentations/intro_estadistica_de_negocios.slides.html#/)  |     |     |
@@ -18,16 +26,10 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 
 - [Estadística y probabilidad interactiva](http://en-interactive.herokuapp.com)
 
-### Curso de Python 3
+### Introducción a Python 3
 
 - [Introducción a la computación en Python](https://marsgr6.github.io/presentations/ICP2021/index.html)
 
 - [Numpy](https://anaconda.org/marsgr6/numpy/notebook)
 
 - [Matplotlib](https://anaconda.org/marsgr6/matplotlib/notebook)
-  
-### Docente
-
-[Mario González](http://investigacion.udla.edu.ec/udla_teams/mario-gonzalez/)
-
-- [Perfil Google scholar](https://scholar.google.co.uk/citations?user=cmuZCwsAAAAJ&hl=en)

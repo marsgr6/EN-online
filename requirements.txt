@@ -15,4 +15,4 @@ plotly==5.5.0  # remove
 #tenacity>=6.2.0  # remove
 # voila
 # voila-material
-# ipywidgets
+ipywidgets

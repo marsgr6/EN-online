@@ -25,6 +25,7 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 - Ejecute los notebooks online en [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marsgr6/EN-online/HEAD)
 
 - [Estadística y probabilidad interactiva](https://mybinder.org/v2/gh/marsgr6/EN-interactive/HEAD?urlpath=voila%2Frender%2Fapp.ipynb)
+  - [Vea el notebook en Google Colab](https://colab.research.google.com/drive/1YC-bYWed78XBKfJykTOfaOfqS0MVJETz?usp=sharing)
 
 ### Introducción a Python 3
 

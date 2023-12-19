@@ -21,3 +21,6 @@ voila-material
 ipywidgets
 tables
 tabulate
+scikit-learn
+pca
+kmodes

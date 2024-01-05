@@ -15,7 +15,7 @@ def plot_data(all_data):
                     plot_type=['bars', 'boxes', 'ridges', 'histogram', 
                           'density 1', 'density 2', 'scatter',
                           'catplot', 'missingno', 'correlation', 'clustermap',
-                          'pairplot'
+                          'pairplot', 'regression'
                          ],
                     risk_it_all=False,
             ):
@@ -244,6 +244,28 @@ def plot_data(all_data):
                         sns.catplot(data=data, x=var_x, y=var_y, hue=hue, kind=kind);
                     plt.show()
 
+            if plot_type == 'regression':
+                """
+                Colab has an AI copilot you can ask to help you with the code
+                For example: 
+                prompt to colab: add a slider for alpha in the scatter plot and add a style var
+                """
+                @ipywidgets.interact
+                def plot(var_x=data.columns,
+                         var_y=data.columns, # change to float if necessary
+                         hue_var=data.columns,
+                         order=[1, 2, 3], 
+                         ci=[68, 95, 99, 0],
+                         use_hue=True,
+                        ):
+                    sns.reset_defaults()
+                    plt.figure(figsize=(8,6))
+                    if use_hue:
+                        sns.lmplot(data=data, x=var_x, y=var_y, hue=hue, order=order, ci=ci)
+                    else:
+                        sns.lmplot(data=data, x=var_x, y=var_y, order=order, ci=ci)
+                    plt.show()
+
         else:
             if plot_type == 'bars':
                 @ipywidgets.interact
@@ -272,24 +294,41 @@ def plot_data(all_data):
                     def plot(var_x=data.select_dtypes(include = 'object').columns,
                              var_y=data.select_dtypes(include = 'number').columns, 
                              hue=data.select_dtypes(include = 'object').columns,
-                             tplot=["boxplot", "lineplot", "violin"]
+                             tplot=["boxplot", "lineplot", "violin"],
+                             no_hue=False,
                             ):
                         sns.reset_defaults()
                         palette = sns.color_palette("Set2", 12)  # If you have more than 12 categories change this
                         plt.figure(figsize=(8,6))
                         if tplot == "boxplot":
-                            sns.boxplot(data=data, x=var_x, y=var_y, hue=hue, palette=palette);
+                            if not no_hue:
+                                sns.boxplot(data=data, x=var_x, y=var_y, hue=hue, palette=palette);
+                            else:
+                                sns.boxplot(data=data, x=var_x, y=var_y, palette=palette);
                         if tplot == "violin":
                             if len(np.unique(data[hue]) == 2):
-                                sns.violinplot(data=data, x=var_x, y=var_y, hue=hue, split=True,
+                                if no_hue:
+                                    sns.violinplot(data=data, x=var_x, y=var_y, common_norm=False,
+                                               cut=0, palette=palette, inner="quartil")
+                                else:
+                                    sns.violinplot(data=data, x=var_x, y=var_y, hue=hue, split=True,
                                                common_norm=False,
                                                cut=0, palette=palette, inner="quartil");
                             else: 
-                                sns.violinplot(data=data, x=var_x, y=var_y, hue=hue, common_norm=False,
+                                if no_hue:
+                                    sns.violinplot(data=data, x=var_x, y=var_y, common_norm=False,
                                                cut=0, palette=palette, inner="quartil")
+                                else:
+                                    sns.violinplot(data=data, x=var_x, y=var_y, hue=hue, common_norm=False,
+                                               cut=0, palette=palette, inner="quartil")
+
                         if tplot == "lineplot":
-                            sns.lineplot(data=data, x=var_x, y=var_y, hue=hue,
+                            if not no_hue:
+                                sns.lineplot(data=data, x=var_x, y=var_y,
                                          err_style="bars", errorbar=('ci', 68), estimator='mean', palette=palette)
+                            else:
+                                sns.lineplot(data=data, x=var_x, y=var_y, hue=hue,
+                                            err_style="bars", errorbar=('ci', 68), estimator='mean', palette=palette)
                         plt.show();
 
             if plot_type == 'ridges':
@@ -423,4 +462,27 @@ def plot_data(all_data):
                         sns.catplot(data=data, x=var_x, y=var_y, col=col, hue=hue, kind=kind);
                     else:
                         sns.catplot(data=data, x=var_x, y=var_y, hue=hue, kind=kind);
+                    plt.show()
+
+
+            if plot_type == 'regression':
+                """
+                Colab has an AI copilot you can ask to help you with the code
+                For example: 
+                prompt to colab: add a slider for alpha in the scatter plot and add a style var
+                """
+                @ipywidgets.interact
+                def plot(var_x=data.select_dtypes(include = 'number').columns,
+                         var_y=data.select_dtypes(include = 'number').columns, # change to float if necessary
+                         hue=data.select_dtypes(include = 'object').columns,
+                         order=[1, 2, 3], 
+                         ci=[68, 95, 99, 0],
+                         use_hue=True,
+                        ):
+                    sns.reset_defaults()
+                    plt.figure(figsize=(8,6))
+                    if use_hue:
+                        sns.lmplot(data=data, x=var_x, y=var_y, hue=hue, order=order, ci=ci)
+                    else:
+                        sns.lmplot(data=data, x=var_x, y=var_y, order=order, ci=ci)
                     plt.show()

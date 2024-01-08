@@ -24,3 +24,5 @@ tabulate
 scikit-learn
 pca
 kmodes
+xlrd
+missingno

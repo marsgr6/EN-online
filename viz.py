@@ -81,7 +81,7 @@ def plot_data(all_data):
                             x_label: grp[var_x].value_counts()
                             for x_label, grp in data.groupby(hue)
                         })
-                        sns.heatmap(df_2dhist, cmap='viridis', annot=True, cbar=False, fmt=',d')
+                        sns.heatmap(df_2dhist, cmap='viridis', annot=True, cbar=False, fmt='.0f')
                         plt.xlabel(hue)
                         _ = plt.ylabel(var_x)
                     plt.show();
@@ -284,7 +284,7 @@ def plot_data(all_data):
                             x_label: grp[var_x].value_counts()
                             for x_label, grp in data.groupby(hue)
                         })
-                        sns.heatmap(df_2dhist, cmap='viridis', annot=True, cbar=False, fmt=',d')
+                        sns.heatmap(df_2dhist, cmap='viridis', annot=True, cbar=False, fmt='.0f')
                         plt.xlabel(hue)
                         _ = plt.ylabel(var_x)
                     plt.show();

@@ -36,7 +36,7 @@ def plot_data(all_data):
                 data_c = data.drop(
                     data.columns[data.nunique() == 1],axis=1).select_dtypes(
                     include = 'number')
-                sns.clustermap(data_c.select_dtypes(include=np.number), annot=True, 
+                sns.clustermap(data_c.dropna(axis=0), annot=True, 
                     standard_scale=standard_scale,
                     z_score=z_score
                     )

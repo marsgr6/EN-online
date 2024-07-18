@@ -26,7 +26,7 @@ def plot_data(all_data):
 
         if plot_type == "correlation":
             data_c = data.drop(data.columns[data.nunique() == 1],axis=1)
-            corr_matrix = data_c.corr()
+            corr_matrix = data_c.select_dtypes(include=np.number).corr()
             sns.clustermap(corr_matrix, annot=True)
             plt.show()
 
@@ -36,7 +36,7 @@ def plot_data(all_data):
                 data_c = data.drop(
                     data.columns[data.nunique() == 1],axis=1).select_dtypes(
                     include = 'number')
-                sns.clustermap(data_c, annot=True, 
+                sns.clustermap(data_c.select_dtypes(include=np.number), annot=True, 
                     standard_scale=standard_scale,
                     z_score=z_score
                     )

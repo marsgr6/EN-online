@@ -32,3 +32,9 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 
 - [Introducción a la computación en Python](https://marsgr6.github.io/presentations/ICP2021/index.html)
 - [Python 3 para Data Science](https://marsgr6.github.io/presentations/Python3_Course_Content.html#/)
+- 
+### Recursos
+
+- [Econometrics for Business Analytics](https://bookdown.org/cuborican/RE_STAT/), Jose Fernandez, 2024-09-12.
+- [Introduction To Probability And Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/pages/classes-reading-and-in-class-materials/), MIT OperCourseWare.
+- [Introduction to Probability](https://www.oreilly.com/library/view/introduction-to-probability/9781466575578/), by Joseph K. Blitzstein, Jessica Hwang.

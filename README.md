@@ -11,7 +11,7 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 - [Perfil Google scholar](https://scholar.google.co.uk/citations?user=cmuZCwsAAAAJ&hl=en)
 
 ### Contenido
-
+by Joseph K. Blitzstein, Jessica Hwang
 | Semana | Tema     | Detalle | Descargar |
 | :---:  | :---------------------------------------------   | :--------------------------------------------- | :------------ |
 | 0      | [Introducción](https://marsgr6.github.io/presentations/intro_estadistica_de_negocios.slides.html#/) | Presentación inicial del curso, objetivos y metodología. |     |
@@ -32,7 +32,7 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 
 - [Introducción a la computación en Python](https://marsgr6.github.io/presentations/ICP2021/index.html)
 - [Python 3 para Data Science](https://marsgr6.github.io/presentations/Python3_Course_Content.html#/)
-- 
+
 ### Recursos
 
 - [Econometrics for Business Analytics](https://bookdown.org/cuborican/RE_STAT/), Jose Fernandez, 2024-09-12.

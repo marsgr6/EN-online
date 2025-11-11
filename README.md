@@ -39,3 +39,4 @@ La asignatura se enfoca en la analítica descriptiva como componente fundamental
 - [Introduction To Probability And Statistics](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/pages/classes-reading-and-in-class-materials/), MIT OperCourseWare.
 - [Introduction to Probability](https://www.oreilly.com/library/view/introduction-to-probability/9781466575578/), by Joseph K. Blitzstein, Jessica Hwang.
 - [Introduction to Modern Statistics (2e)](https://openintrostat.github.io/ims/), by Mine Çetinkaya-Rundel, Johanna Hardin
+- [Awesome Dataviz](https://github.com/hal9ai/awesome-dataviz), A curated list of awesome open-source data visualizations frameworks, libraries and software. 
